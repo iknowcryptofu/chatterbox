@@ -1,0 +1,42 @@
+In the New York Times game [Connections](https://www.google.com/search?kgmid=/g/11l249l6hs&q=connections+puzzle+rules), your goal is to organize a grid of 16 words into four groups of four. Each group must share a specific common theme or connection, such as synonyms, parts of a phrase, or wordplay. [1, 2, 3, 4] 
+Core Rules
+
+* Group Size: You must select exactly four words to submit a guess.
+* Mistakes: You are allowed a maximum of four incorrect attempts. If you use all four, the game ends and reveals the answers.
+* One Solution: Each puzzle has only one unique solution, even if some words seem to fit into multiple categories.
+* Difficulty Levels: The four categories are color-coded by how straightforward they are:
+* 🟨 Yellow: Most straightforward.
+   * 🟩 Green: Intermediate.
+   * 🟦 Blue: More complex.
+   * 🟪 Purple: Trickiest (often involving wordplay or abstract themes). [3, 4, 5, 6, 7, 8, 9, 10] 
+
+Gameplay Features
+
+* "One Away": If your submitted group has three correct words and one incorrect word, the game will flash a "One away!" message to let you know you are close.
+* Shuffle: You can use the Shuffle button at any time to rearrange the tiles on the board, which can help you spot new associations.
+* Automatic Completion: Once you correctly identify three categories, the final four words will automatically form the fourth group once you select and submit them. [3, 6, 10, 11, 12] 
+
+Tips for Winning
+
+* Watch for Red Herrings: The game often includes five or more words that could fit a theme to trick you into a wrong guess.
+* Check Multiple Meanings: Before submitting, consider if any of your chosen words fit better in a different potential category.
+* Deduce First: Try to identify all four categories in your head before making your first click to avoid burning attempts on overlapping words. [3, 5, 13, 14, 15, 16] 
+
+Would you like a daily hint for today’s puzzle or more advanced strategies for spotting purple categories?
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=zVmet-hjzdU)
+[2] [https://www.youtube.com](https://www.youtube.com/watch?v=y8fPzgFl4Gg&t=9)
+[3] [https://lifehacker.com](https://lifehacker.com/how-to-play-connections-1850534478)
+[4] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/The_New_York_Times_Connections)
+[5] [https://www.youtube.com](https://www.youtube.com/watch?v=M8V2xs1fpFQ)
+[6] [https://www.techradar.com](https://www.techradar.com/how-to/how-to-play-nyt-connections)
+[7] [https://www.facebook.com](https://www.facebook.com/puzzlinggames/videos/unlocking-connections-master-the-game-go-viral/871200178789823/)
+[8] [https://www.nytimes.com](https://www.nytimes.com/2023/06/26/crosswords/new-game-connections.html)
+[9] [https://mashable.com](https://mashable.com/article/nyt-connections-hint-answer-today-march-18-2026)
+[10] [https://www.rd.com](https://www.rd.com/article/connections-word-game/)
+[11] [https://bernoff.com](https://bernoff.com/blog/why-a-1-in-a-million-new-york-times-connections-solution-is-counterintuitively-likely)
+[12] [https://www.standard.co.uk](https://www.standard.co.uk/culture/gaming/new-york-times-connections-hints-tips-tricks-daily-puzzle-nyt-b1189800.html)
+[13] [https://forum.finepix-x100.com](https://forum.finepix-x100.com/t/how-can-i-play-nyt-connections-properly/1719)
+[14] [https://www.youtube.com](https://www.youtube.com/watch?v=a63XrKXcK88)
+[15] [https://www.nytimes.com](https://www.nytimes.com/2023/10/30/crosswords/your-connections-questions-answered.html#:~:text=A.%20Love%20the%20pen%20and%20paper%20method!,board%2C%20making%20other%20categories%20easier%20to%20see.)
+[16] [https://www.nytimes.com](https://www.nytimes.com/2023/11/06/crosswords/connections-tips-and-tricks.html)
